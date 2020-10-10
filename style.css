@@ -76,7 +76,9 @@ body {
     bottom: 80px;
     left: 80px;
     display: flex;
-    align-items: flex-end;
+    align-items: baseline;
+    width: 440px;
+    justify-content: space-between;
 }
 
 .button {
