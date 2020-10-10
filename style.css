@@ -1,13 +1,111 @@
+@font-face {
+    font-family: "Montserrat";
+    src: url("font/Montserrat-Bold.ttf");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Montserrat";
+    src: url("font/Montserrat-Regular.ttf");
+    font-weight: 500;
+}
+
+html {
+    font-family: Montserrat, sans-serif;
+    font-weight: 500;
+}
+
 body {
     height: 100%;
     width: 100%;
+    font-family: Montserrat, sans-serif;
+    font-weight: 500;
+}
+
+.container {
+    max-width: 1170px;
+    margin: auto;
+    height: 1000px;
 }
 
 .background__lines {
     position: absolute;
     height: 100%;
     width: 100%;
-    background-image: url("img/lines2.png");
+    background-image: url("img/lines.png");
     background-repeat: no-repeat;
     background-position: right top;
+    background-size: contain;
+}
+
+.background__image {
+    position: absolute;
+    top: 187px;
+    width: 100%;
+    height: 611px;
+    background-image: url("img/jrg_live_background.svg");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: contain;
+}
+
+.logo {
+    position: relative;
+    width: 126px;
+    height: 41px;
+    background-image: url("img/logo.svg");
+    background-repeat: no-repeat;
+    left: 84px;
+    top: 149px;
+}
+
+.header {
+    position: relative;
+    left: 80px;
+    width: 462px;
+    height: 120px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 120%;
+    top: 246px;
+}
+
+.actions {
+    position: absolute;
+    bottom: 80px;
+    left: 80px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.button {
+    height: 117px;
+}
+
+.button img {
+    display: block;
+    margin: auto;
+}
+
+.button__buy {
+    font-family: Montserrat;
+    width: 210px;
+    font-weight: 500;
+    height: 65px;
+    background-color: #FBCB03;
+    border: 0;
+    border-radius: 12px;
+    font-size: 18px;
+}
+
+.button__degree {
+    width: 210px;
+    font-weight: 500;
+    height: 65px;
+    background-color: #000000;
+    color: #ffffff;
+    border: 0;
+    border-radius: 12px;
+    font-size: 18px;
 }

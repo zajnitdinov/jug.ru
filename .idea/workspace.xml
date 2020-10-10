@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f63c9cf4-3f3a-45c5-831b-ef0301c39ebd" name="Default Changelist" comment="" />
+    <list default="true" id="f63c9cf4-3f3a-45c5-831b-ef0301c39ebd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/icon-agree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icon-degree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/lines2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ignK25wWD8xmmaSE4MF8W30i5W" />
   <component name="ProjectViewState">
@@ -15,6 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -23,8 +36,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="liveEdit" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Роберт\WebstormProjects\jug.ru\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/font" />
     </key>
@@ -38,6 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602338036264</updated>
       <workItem from="1602338037878" duration="1833000" />
+      <workItem from="1602340560626" duration="5841000" />
     </task>
     <servers />
   </component>
@@ -49,5 +67,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1602339542667" />
+    <state x="296" y="244" key="run.anything.popup" timestamp="1602341141847">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="296" y="244" key="run.anything.popup/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1602341141847" />
   </component>
 </project>
