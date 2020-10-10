@@ -1,0 +1,13 @@
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.background__lines {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-image: url("img/lines2.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+}
